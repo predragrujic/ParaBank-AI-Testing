@@ -1,6 +1,6 @@
 # 🏝️ Havaji – Tropski Raj Pacifika
 
-Havaji su 🏄‍♂️ **arhipelag u Tihom okeanu** i ujedno 50. savezna država SAD. Poznati su po neverovatnim vulkanima 🌋, bujnoj tropskoj vegetaciji 🌿, peskovitim plažama zlatne i crne boje 🏖️ i jedinstvenoj kulturnoj mešavini koja spaja polinežanske korene, azijske uticaje i savremeni američki stil života.
+Havaji su 🏄‍♂️ **arhipelag u Tihom okeanu** i ujedno 50. savezna država SAD. Poznati su po neverovatnim vulkanima 🌋, bujnoj tropskoj vegetaciji 🌿, peskovitim plažama zlatne i crne boje 🏖️ i jedinstvenoj kulturnoj mešavini koja spaja polinežanske korene, azijske uticaje i savremeni američki stil života  .
 
 ---
 
