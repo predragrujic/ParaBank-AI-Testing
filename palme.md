@@ -1,7 +1,7 @@
 # 🌴 Palme – Simbol Tropika i Mirnog Života
 
 Palme su jedna od najprepoznatljivijih biljnih vrsta na svetu. 🌍
-Vezuju se za **tropske krajeve**, topla mora, letnje vetrove i osećaj opuštenosti. Često su simbol **egzotike**, **odmora**, **plaža** i **dugovečnosti**.
+Vezuju se za **tropske krajeve**, topla mora, letnje vetrove i osećaj opuštenosti. Često su simbol **egzotike**, **odmora**, **plaža** i **dugovečnosti**...
 
 ---
 
