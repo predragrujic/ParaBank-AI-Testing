@@ -3,7 +3,7 @@
 More je jedan od najfascinantnijih prirodnih fenomena na planeti.
 Predstavlja **ogromnu slanu vodenu površinu** koja povezuje kontinente, oblikuje klimu i čuva nevjerovatnu raznolikost života.
 Simbol je **slobode**, **tajanstvenosti**, **smirenja** i **snage prirode**.
-
+HOCU NA MORE!
 ---
 
 ## 🌐 Osnovne karakteristike mora
