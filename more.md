@@ -57,7 +57,7 @@ HOCU NA MORE!
 - 🐢 Morske kornjače – putuju hiljadama kilometara
 
 ---
-## 
+
 ## 💡 Fun fact
 
 - Zvuk putuje u vodi **četiri puta brže** nego u vazduhu! 🔊🌊
