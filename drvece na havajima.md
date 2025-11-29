@@ -4,7 +4,7 @@ Havaji imaju jedinstvenu i raznovrsnu vegetaciju, sa mnogim vrstama koje rastu s
 
 ---
 
-## 🌳 Autohtone vrste (domiće vrste)
+## 🌳 Autohtone vrste (domaće vrste)
 
 - **ʻŌhiʻa Lehua (Metrosideros polymorpha)**  
   Drvo sa crvenim „pahuljastim“ cvetovima, sveto u havajskoj kulturi.
