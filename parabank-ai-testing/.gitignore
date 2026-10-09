@@ -1,0 +1,57 @@
+
+### Maven / Java ###
+target/
+.maven-cache/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+### AI QA execution results ###
+reports/
+.playwright-mcp/
+playwright-report/
+test-results/
+
+### Logs ###
+*.log
+
+### Secrets and local configuration ###
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+application-local.properties
+application-secret.properties
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### Eclipse ###
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Node.js ###
+node_modules/
+
+### Operating system ###
+.DS_Store
+Thumbs.db
